@@ -10,4 +10,5 @@ header{
     background-image: url(./bg-hero.png);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 619px;
 }
